@@ -1,0 +1,245 @@
+[
+  {
+    "id": "heart_attack",
+    "title_en": "Heart Attack",
+    "title_kn": "ಹೃದಯಾಘಾತ",
+    "description_en": "Sudden chest pain and possible heart failure",
+    "description_kn": "ಹಠಾತ್ ಎದೆನೋವು ಮತ್ತು ಹೃದಯ ವೈಫಲ್ಯದ ಸಾಧ್ಯತೆ",
+    "category": "CRITICAL",
+    "icon_name": "heart",
+    "keywords_en": "chest pain cardiac heart failure myocardial angina arm pain sweating shortness of breath",
+    "keywords_kn": "ಎದೆನೋವು ಹೃದಯ ಹೃದಯಾಘಾತ ಉಸಿರಾಟ",
+    "call_emergency": true,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Call Emergency",
+        "title_kn": "ತುರ್ತು ಕರೆ ಮಾಡು",
+        "instruction_en": "Immediately call 112 or your local emergency number. Tell them someone is having a heart attack.",
+        "instruction_kn": "ತಕ್ಷಣ 112 ಅಥವಾ ನಿಮ್ಮ ಸ್ಥಳದ ತುರ್ತು ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಿ. ಯಾರೋ ಹೃದಯಾಘಾತಕ್ಕೆ ಒಳಗಾಗಿದ್ದಾರೆಂದು ತಿಳಿಸಿ.",
+        "dos": ["Call emergency immediately", "Keep the person calm and seated", "Loosen tight clothing"],
+        "donts": ["Don't let them walk", "Don't give food or water"],
+        "dos_kn": ["ತಕ್ಷಣ ತುರ್ತು ಕರೆ ಮಾಡಿ", "ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿ ಕುಳಿತಿರಿಸಿ", "ಸಿಗಬೀಳು ಬಟ್ಟೆಗಳನ್ನು ಸಡಿಲಿಸಿ"],
+        "donts_kn": ["ಅವರು ನಡೆಯಲು ಬಿಡಬೇಡಿ", "ಆಹಾರ ಅಥವಾ ನೀರು ಕೊಡಬೇಡಿ"],
+        "audio_script_en": "Call emergency immediately. Keep the person calm and seated. Loosen tight clothing. Do not let them walk or give them food and water.",
+        "audio_script_kn": "ತಕ್ಷಣ ತುರ್ತು ಕರೆ ಮಾಡಿ. ವ್ಯಕ್ತಿಯನ್ನು ಶಾಂತವಾಗಿ ಕುಳಿತಿರಿಸಿ. ಸಿಗಬೀಳು ಬಟ್ಟೆಗಳನ್ನು ಸಡಿಲಿಸಿ. ಅವರು ನಡೆಯಲು ಬಿಡಬೇಡಿ ಅಥವಾ ಆಹಾರ ನೀರು ಕೊಡಬೇಡಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Check Breathing",
+        "title_kn": "ಉಸಿರಾಟ ಪರಿಶೀಲಿಸಿ",
+        "instruction_en": "Check if the person is breathing normally. If they stop breathing, begin CPR immediately.",
+        "instruction_kn": "ವ್ಯಕ್ತಿ ಸಾಮಾನ್ಯವಾಗಿ ಉಸಿರಾಡುತ್ತಿದ್ದಾರೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಉಸಿರಾಟ ನಿಂತರೆ, ತಕ್ಷಣ CPR ಪ್ರಾರಂಭಿಸಿ.",
+        "dos": ["Check breathing every few minutes", "Start CPR if not breathing"],
+        "donts": ["Don't leave them alone", "Don't wait too long to start CPR"],
+        "dos_kn": ["ಪ್ರತಿ ಕೆಲವು ನಿಮಿಷಗಳಿಗೊಮ್ಮೆ ಉಸಿರಾಟ ಪರಿಶೀಲಿಸಿ", "ಉಸಿರಾಡದಿದ್ದರೆ CPR ಪ್ರಾರಂಭಿಸಿ"],
+        "donts_kn": ["ಅವರನ್ನು ಒಂಟಿಯಾಗಿ ಬಿಡಬೇಡಿ", "CPR ಪ್ರಾರಂಭಿಸಲು ಹೆಚ್ಚು ಹೊತ್ತು ಕಾಯಬೇಡಿ"],
+        "audio_script_en": "Check if the person is breathing normally. If they stop breathing, begin CPR immediately. Do not leave them alone.",
+        "audio_script_kn": "ವ್ಯಕ್ತಿ ಸಾಮಾನ್ಯವಾಗಿ ಉಸಿರಾಡುತ್ತಿದ್ದಾರೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಉಸಿರಾಟ ನಿಂತರೆ ತಕ್ಷಣ CPR ಪ್ರಾರಂಭಿಸಿ. ಅವರನ್ನು ಒಂಟಿಯಾಗಿ ಬಿಡಬೇಡಿ."
+      },
+      {
+        "step_number": 3,
+        "title_en": "Give Aspirin (if available)",
+        "title_kn": "ಆಸ್ಪ್ರಿನ್ ಕೊಡಿ (ಲಭ್ಯವಿದ್ದರೆ)",
+        "instruction_en": "If the person is not allergic to aspirin and is conscious, give them a full-strength aspirin (300mg) to chew slowly.",
+        "instruction_kn": "ವ್ಯಕ್ತಿಗೆ ಆಸ್ಪ್ರಿನ್‌ಗೆ ಅಲರ್ಜಿ ಇಲ್ಲದಿದ್ದರೆ ಮತ್ತು ಅವರು ಪ್ರಜ್ಞಾವಂತರಾಗಿದ್ದರೆ, ಒಂದು ಪೂರ್ಣ-ಶಕ್ತಿಯ ಆಸ್ಪ್ರಿನ್ (300mg) ನೀಡಿ ಮತ್ತು ನಿಧಾನವಾಗಿ ಚವಿಡಲು ಹೇಳಿ.",
+        "dos": ["Give 300mg aspirin to chew", "Make sure person is conscious"],
+        "donts": ["Don't give if allergic", "Don't give to unconscious person"],
+        "dos_kn": ["ಚವಿಡಲು 300mg ಆಸ್ಪ್ರಿನ್ ಕೊಡಿ", "ವ್ಯಕ್ತಿ ಪ್ರಜ್ಞಾವಂತರಾಗಿದ್ದಾರೆ ಖಚಿತಪಡಿಸಿ"],
+        "donts_kn": ["ಅಲರ್ಜಿ ಇದ್ದರೆ ಕೊಡಬೇಡಿ", "ಪ್ರಜ್ಞೆ ಇಲ್ಲದವರಿಗೆ ಕೊಡಬೇಡಿ"],
+        "audio_script_en": "If the person is not allergic to aspirin and is conscious, give them a full-strength aspirin of 300 milligrams to chew slowly.",
+        "audio_script_kn": "ವ್ಯಕ್ತಿಗೆ ಆಸ್ಪ್ರಿನ್‌ಗೆ ಅಲರ್ಜಿ ಇಲ್ಲದಿದ್ದರೆ ಮತ್ತು ಅವರು ಪ್ರಜ್ಞಾವಂತರಾಗಿದ್ದರೆ, 300 ಮಿಲಿಗ್ರಾಮ್ ಪೂರ್ಣ-ಶಕ್ತಿಯ ಆಸ್ಪ್ರಿನ್ ನೀಡಿ ಮತ್ತು ನಿಧಾನವಾಗಿ ಚವಿಡಲು ಹೇಳಿ."
+      }
+    ]
+  },
+  {
+    "id": "bleeding",
+    "title_en": "Severe Bleeding",
+    "title_kn": "ತೀವ್ರ ರಕ್ತಸ್ರಾವ",
+    "description_en": "Heavy external bleeding that needs immediate control",
+    "description_kn": "ತಕ್ಷಣ ನಿಯಂತ್ರಿಸಬೇಕಾದ ಭಾರಿ ಹೊರಗಿನ ರಕ್ತಸ್ರಾವ",
+    "category": "CRITICAL",
+    "icon_name": "bleeding",
+    "call_emergency": true,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Apply Direct Pressure",
+        "title_kn": "ನೇರ ಒತ್ತಡ ಹಾಕಿ",
+        "instruction_en": "Use a clean cloth or bandage to apply firm, direct pressure to the wound. Keep pressing without stopping.",
+        "instruction_kn": "ಗಾಯದ ಮೇಲೆ ದೃಢವಾದ ನೇರ ಒತ್ತಡ ಹಾಕಲು ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆ ಅಥವಾ ಬ್ಯಾಂಡೇಜ್ ಬಳಸಿ. ನಿಲ್ಲಿಸದೆ ಒತ್ತಡ ಹಾಕುತ್ತಿರಿ.",
+        "dos": ["Use clean cloth or bandage", "Apply firm pressure", "Keep pressure constant"],
+        "donts": ["Don't remove embedded objects", "Don't stop applying pressure"],
+        "dos_kn": ["ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆ ಅಥವಾ ಬ್ಯಾಂಡೇಜ್ ಬಳಸಿ", "ದೃಢವಾದ ಒತ್ತಡ ಹಾಕಿ", "ಒತ್ತಡವನ್ನು ನಿರಂತರವಾಗಿ ಇಡಿ"],
+        "donts_kn": ["ಚುಚ್ಚಿಕೊಂಡಿರುವ ವಸ್ತುಗಳನ್ನು ತೆಗೆಯಬೇಡಿ", "ಒತ್ತಡ ಹಾಕುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಡಿ"],
+        "audio_script_en": "Use a clean cloth or bandage to apply firm, direct pressure to the wound. Keep pressing without stopping. Do not remove embedded objects.",
+        "audio_script_kn": "ಗಾಯದ ಮೇಲೆ ದೃಢವಾದ ನೇರ ಒತ್ತಡ ಹಾಕಲು ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆ ಅಥವಾ ಬ್ಯಾಂಡೇಜ್ ಬಳಸಿ. ನಿಲ್ಲಿಸದೆ ಒತ್ತಡ ಹಾಕುತ್ತಿರಿ. ಚುಚ್ಚಿಕೊಂಡಿರುವ ವಸ್ತುಗಳನ್ನು ತೆಗೆಯಬೇಡಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Elevate the Injury",
+        "title_kn": "ಗಾಯವನ್ನು ಎತ್ತಿ",
+        "instruction_en": "If possible, raise the injured area above the level of the heart to slow bleeding.",
+        "instruction_kn": "ಸಾಧ್ಯವಾದರೆ, ರಕ್ತಸ್ರಾವ ಕಡಿಮೆ ಮಾಡಲು ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಹೃದಯದ ಮಟ್ಟಕ್ಕಿಂತ ಮೇಲೆತ್ತಿ.",
+        "dos": ["Raise above heart level", "Keep applying pressure"],
+        "donts": ["Don't elevate if it causes pain", "Don't move if spinal injury suspected"],
+        "dos_kn": ["ಹೃದಯದ ಮಟ್ಟಕ್ಕಿಂತ ಮೇಲೆತ್ತಿ", "ಒತ್ತಡ ಹಾಕುತ್ತಿರಿ"],
+        "donts_kn": ["ನೋವು ಉಂಟುಮಾಡಿದರೆ ಎತ್ತಬೇಡಿ", "ಬೆನ್ನೆಲುಬಿನ ಗಾಯವಿದೆಯೆಂದು ಅನುಮಾನವಿದ್ದರೆ ಸರಿಸಬೇಡಿ"],
+        "audio_script_en": "If possible, raise the injured area above the level of the heart to slow bleeding. Keep applying pressure. Do not elevate if it causes pain.",
+        "audio_script_kn": "ಸಾಧ್ಯವಾದರೆ ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಹೃದಯದ ಮಟ್ಟಕ್ಕಿಂತ ಮೇಲೆತ್ತಿ ರಕ್ತಸ್ರಾವ ಕಡಿಮೆ ಮಾಡಿ. ಒತ್ತಡ ಹಾಕುತ್ತಿರಿ. ನೋವು ಉಂಟುಮಾಡಿದರೆ ಎತ್ತಬೇಡಿ."
+      }
+    ]
+  },
+  {
+    "id": "burns",
+    "title_en": "Burns",
+    "title_kn": "ಸುಟ್ಟ ಗಾಯಗಳು",
+    "description_en": "Thermal, chemical, or electrical burns",
+    "description_kn": "ಉಷ್ಣ, ರಾಸಾಯನಿಕ, ಅಥವಾ ವಿದ್ಯುತ್ ಸುಟ್ಟ ಗಾಯಗಳು",
+    "category": "MODERATE",
+    "icon_name": "burns",
+    "call_emergency": false,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Cool the Burn",
+        "title_kn": "ಸುಟ್ಟ ಭಾಗವನ್ನು ತಣ್ಣಗಾಗಿಸಿ",
+        "instruction_en": "Hold the burned area under cool (not cold) running water for 10-20 minutes. Do not use ice.",
+        "instruction_kn": "ಸುಟ್ಟ ಭಾಗವನ್ನು 10-20 ನಿಮಿಷಗಳ ಕಾಲ ತಂಪಾದ (ತಣ್ಣಗಿರುವ) ಹರಿಯುತ್ತಿರುವ ನೀರಿನಡಿ ಹಿಡಿದಿರಿ. ಐಸ್ ಬಳಸಬೇಡಿ.",
+        "dos": ["Use cool running water for 10-20 minutes", "Cover with clean, dry cloth"],
+        "donts": ["Don't use ice", "Don't apply butter or ointments", "Don't break blisters"],
+        "dos_kn": ["10-20 ನಿಮಿಷಗಳ ಕಾಲ ತಂಪಾದ ಹರಿಯುತ್ತಿರುವ ನೀರು ಬಳಸಿ", "ಸ್ವಚ್ಛವಾದ ಒಣಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ"],
+        "donts_kn": ["ಐಸ್ ಬಳಸಬೇಡಿ", "ಬೆಣ್ಣೆ ಅಥವಾ ಮಲಮುಗಳನ್ನು ಹಚ್ಚಬೇಡಿ", "ಗಜ್ಜೆಗಳನ್ನು ಸೀಳಬೇಡಿ"],
+        "audio_script_en": "Hold the burned area under cool running water for 10 to 20 minutes. Do not use ice. Cover with a clean, dry cloth. Do not apply butter or ointments.",
+        "audio_script_kn": "ಸುಟ್ಟ ಭಾಗವನ್ನು 10 ರಿಂದ 20 ನಿಮಿಷಗಳ ಕಾಲ ತಂಪಾದ ಹರಿಯುತ್ತಿರುವ ನೀರಿನಡಿ ಹಿಡಿದಿರಿ. ಐಸ್ ಬಳಸಬೇಡಿ. ಸ್ವಚ್ಛವಾದ ಒಣಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ. ಬೆಣ್ಣೆ ಅಥವಾ ಮಲಮುಗಳನ್ನು ಹಚ್ಚಬೇಡಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Cover the Burn",
+        "title_kn": "ಸುಟ್ಟ ಭಾಗವನ್ನು ಮುಚ್ಚಿ",
+        "instruction_en": "After cooling, cover the burn with a sterile, non-stick bandage or clean cloth. Do not wrap too tightly.",
+        "instruction_kn": "ತಣ್ಣಗಾಗಿಸಿದ ನಂತರ, ಸುಟ್ಟ ಭಾಗವನ್ನು ಸ್ಟರೈಲ್, ಅಂಟದ ಬ್ಯಾಂಡೇಜ್ ಅಥವಾ ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ. ಬಹಳ ಗಟ್ಟಿಯಾಗಿ ಸುತ್ತಬೇಡಿ.",
+        "dos": ["Use sterile non-stick bandage", "Keep the dressing loose"],
+        "donts": ["Don't use cotton wool", "Don't pop blisters", "Don't apply creams"],
+        "dos_kn": ["ಸ್ಟರೈಲ್ ಅಂಟದ ಬ್ಯಾಂಡೇಜ್ ಬಳಸಿ", "ಬ್ಯಾಂಡೇಜ್ ಸಡಿಲಾಗಿ ಇಡಿ"],
+        "donts_kn": ["ಹತ್ತಿ ಬಟ್ಟೆ ಬಳಸಬೇಡಿ", "ಗಜ್ಜೆಗಳನ್ನು ಸೀಳಬೇಡಿ", "ಕ್ರೀಮ್‌ಗಳನ್ನು ಹಚ್ಚಬೇಡಿ"],
+        "audio_script_en": "After cooling, cover the burn with a sterile, non-stick bandage or clean cloth. Do not wrap too tightly. Do not use cotton wool or pop blisters.",
+        "audio_script_kn": "ತಣ್ಣಗಾಗಿಸಿದ ನಂತರ ಸುಟ್ಟ ಭಾಗವನ್ನು ಸ್ಟರೈಲ್ ಅಂಟದ ಬ್ಯಾಂಡೇಜ್ ಅಥವಾ ಸ್ವಚ್ಛವಾದ ಬಟ್ಟೆಯಿಂದ ಮುಚ್ಚಿ. ಬಹಳ ಗಟ್ಟಿಯಾಗಿ ಸುತ್ತಬೇಡಿ. ಹತ್ತಿ ಬಟ್ಟೆ ಬಳಸಬೇಡಿ ಅಥವಾ ಗಜ್ಜೆಗಳನ್ನು ಸೀಳಬೇಡಿ."
+      }
+    ]
+  },
+  {
+    "id": "choking",
+    "title_en": "Choking",
+    "title_kn": "ಉಸಿರುಗಟ್ಟುವಿಕೆ",
+    "description_en": "Airway obstruction by food or object",
+    "description_kn": "ಆಹಾರ ಅಥವಾ ವಸ್ತುವಿನಿಂದ ಉಸಿರುದಾರಿ ಮುಚ್ಚಿಕೊಳ್ಳುವಿಕೆ",
+    "category": "CRITICAL",
+    "icon_name": "choking",
+    "call_emergency": true,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Ask and Check",
+        "title_kn": "ಕೇಳಿ ಮತ್ತು ಪರಿಶೀಲಿಸಿ",
+        "instruction_en": "Ask 'Are you choking?' If they cannot speak, cough, or breathe, act immediately. Call emergency.",
+        "instruction_kn": "ಅವರಿಗೆ 'ನೀವು ಉಸಿರುಗಟ್ಟುತ್ತಿದ್ದೀರಾ?' ಎಂದು ಕೇಳಿ. ಅವರು ಮಾತನಾಡಲು, ಕೆಮ್ಮು ಹಾಕಲು ಅಥವಾ ಉಸಿರಾಡಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ತಕ್ಷಣ ಕ್ರಿಯೆ ತೆಗೆದುಕೊಳ್ಳಿ. ತುರ್ತು ಕರೆ ಮಾಡಿ.",
+        "dos": ["Ask if they are choking", "Call emergency immediately"],
+        "donts": ["Don't leave them alone", "Don't give water"],
+        "dos_kn": ["ಅವರು ಉಸಿರುಗಟ್ಟುತ್ತಿದ್ದಾರೆಯೇ ಎಂದು ಕೇಳಿ", "ತಕ್ಷಣ ತುರ್ತು ಕರೆ ಮಾಡಿ"],
+        "donts_kn": ["ಅವರನ್ನು ಒಂಟಿಯಾಗಿ ಬಿಡಬೇಡಿ", "ನೀರು ಕೊಡಬೇಡಿ"],
+        "audio_script_en": "Ask if they are choking. If they cannot speak, cough, or breathe, act immediately and call emergency. Do not leave them alone.",
+        "audio_script_kn": "ಅವರು ಉಸಿರುಗಟ್ಟುತ್ತಿದ್ದಾರೆಯೇ ಎಂದು ಕೇಳಿ. ಅವರು ಮಾತನಾಡಲು ಕೆಮ್ಮು ಹಾಕಲು ಅಥವಾ ಉಸಿರಾಡಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೆ ತಕ್ಷಣ ಕ್ರಿಯೆ ತೆಗೆದುಕೊಳ್ಳಿ ಮತ್ತು ತುರ್ತು ಕರೆ ಮಾಡಿ. ಅವರನ್ನು ಒಂಟಿಯಾಗಿ ಬಿಡಬೇಡಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Perform Heimlich Maneuver",
+        "title_kn": "ಹೈಮ್‌ಲಿಚ್ ಮನೋವರ್ ಮಾಡಿ",
+        "instruction_en": "Stand behind the person. Wrap your arms around their waist. Make a fist and place it above their navel. Grasp your fist with your other hand and pull inward and upward sharply 5 times.",
+        "instruction_kn": "ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ನಿಲ್ಲಿ. ಅವರ ಸೊಂಟದ ಸುತ್ತ ನಿಮ್ಮ ತೋಳುಗಳನ್ನು ಸುತ್ತಿ. ಮುಷ್ಠಿ ಮಾಡಿ ಅದನ್ನು ಅವರ ನಾಭಿಗಿಂತ ಮೇಲೆ ಇಡಿ. ಇನ್ನೊಂದು ಕೈನಿಂದ ನಿಮ್ಮ ಮುಷ್ಠಿಯನ್ನು ಹಿಡಿದು 5 ಬಾರಿ ಒಳಗೆ ಮತ್ತು ಮೇಲೆ ಕೂಡಲೇ ಎಳೆಯಿರಿ.",
+        "dos": ["Stand behind the person", "Make a fist above navel", "Pull inward and upward"],
+        "donts": ["Don't press on ribs", "Don't use for pregnant women"],
+        "dos_kn": ["ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ನಿಲ್ಲಿ", "ನಾಭಿಗಿಂತ ಮೇಲೆ ಮುಷ್ಠಿ ಮಾಡಿ", "ಒಳಗೆ ಮತ್ತು ಮೇಲೆ ಎಳೆಯಿರಿ"],
+        "donts_kn": ["ಪಕ್ಕೆಲುಬುಗಳ ಮೇಲೆ ಒತ್ತಬೇಡಿ", "ಗರ್ಭಿಣಿಯರಿಗೆ ಬಳಸಬೇಡಿ"],
+        "audio_script_en": "Stand behind the person. Wrap your arms around their waist. Make a fist and place it above their navel. Grasp your fist with your other hand and pull inward and upward sharply 5 times.",
+        "audio_script_kn": "ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ನಿಲ್ಲಿ. ಅವರ ಸೊಂಟದ ಸುತ್ತ ನಿಮ್ಮ ತೋಳುಗಳನ್ನು ಸುತ್ತಿ. ಮುಷ್ಠಿ ಮಾಡಿ ಅದನ್ನು ಅವರ ನಾಭಿಗಿಂತ ಮೇಲೆ ಇಡಿ. ಇನ್ನೊಂದು ಕೈನಿಂದ ನಿಮ್ಮ ಮುಷ್ಠಿಯನ್ನು ಹಿಡಿದು 5 ಬಾರಿ ಒಳಗೆ ಮತ್ತು ಮೇಲೆ ಕೂಡಲೇ ಎಳೆಯಿರಿ."
+      }
+    ]
+  },
+  {
+    "id": "fracture",
+    "title_en": "Bone Fracture",
+    "title_kn": "ಮೂಳೆ ಮುರಿತ",
+    "description_en": "Broken bone or suspected fracture",
+    "description_kn": "ಮುರಿದ ಮೂಳೆ ಅಥವಾ ಅನುಮಾನಿತ ಮುರಿತ",
+    "category": "MODERATE",
+    "icon_name": "fracture",
+    "call_emergency": false,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Immobilize the Area",
+        "title_kn": "ಭಾಗವನ್ನು ಚಲನಾರಹಿತ ಮಾಡಿ",
+        "instruction_en": "Stop any bleeding first. Then keep the injured area immobilized. Do not try to realign the bone.",
+        "instruction_kn": "ಮೊದಲು ಯಾವುದೇ ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸಿ. ನಂತರ ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಚಲನಾರಹಿತವಾಗಿ ಇಡಿ. ಮೂಳೆಯನ್ನು ಮರುಸರಿಪಡಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ.",
+        "dos": ["Stop bleeding first", "Keep area still", "Use splint if available"],
+        "donts": ["Don't try to realign bone", "Don't move unnecessarily"],
+        "dos_kn": ["ಮೊದಲು ರಕ್ತಸ್ರಾವ ನಿಲ್ಲಿಸಿ", "ಭಾಗವನ್ನು ಸ್ಥಿರವಾಗಿ ಇಡಿ", "ಲಭ್ಯವಿದ್ದರೆ ಸ್ಪ್ಲಿಂಟ್ ಬಳಸಿ"],
+        "donts_kn": ["ಮೂಳೆಯನ್ನು ಮರುಸರಿಪಡಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ", "ಅನಗತ್ಯವಾಗಿ ಸರಿಸಬೇಡಿ"],
+        "audio_script_en": "Stop any bleeding first. Then keep the injured area immobilized. Do not try to realign the bone or move the person unnecessarily.",
+        "audio_script_kn": "ಮೊದಲು ಯಾವುದೇ ರಕ್ತಸ್ರಾವವನ್ನು ನಿಲ್ಲಿಸಿ. ನಂತರ ಗಾಯಗೊಂಡ ಭಾಗವನ್ನು ಚಲನಾರಹಿತವಾಗಿ ಇಡಿ. ಮೂಳೆಯನ್ನು ಮರುಸರಿಪಡಿಸಲು ಪ್ರಯತ್ನಿಸಬೇಡಿ ಅಥವಾ ಅನಗತ್ಯವಾಗಿ ವ್ಯಕ್ತಿಯನ್ನು ಸರಿಸಬೇಡಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Apply Ice Pack",
+        "title_kn": "ಐಸ್ ಪ್ಯಾಕ್ ಹಾಕಿ",
+        "instruction_en": "Apply an ice pack wrapped in cloth to reduce swelling. Do not apply ice directly to skin.",
+        "instruction_kn": "ಉಬ್ಬರವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿದ ಐಸ್ ಪ್ಯಾಕ್ ಹಾಕಿ. ನೇರವಾಗಿ ಚರ್ಮಕ್ಕೆ ಐಸ್ ಹಾಕಬೇಡಿ.",
+        "dos": ["Use cloth-wrapped ice pack", "Elevate if possible"],
+        "donts": ["Don't apply ice directly", "Don't massage the area"],
+        "dos_kn": ["ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿದ ಐಸ್ ಪ್ಯಾಕ್ ಬಳಸಿ", "ಸಾಧ್ಯವಾದರೆ ಎತ್ತಿ"],
+        "donts_kn": ["ನೇರವಾಗಿ ಐಸ್ ಹಾಕಬೇಡಿ", "ಭಾಗವನ್ನು ಮಸಾಜ್ ಮಾಡಬೇಡಿ"],
+        "audio_script_en": "Apply an ice pack wrapped in cloth to reduce swelling. Do not apply ice directly to skin or massage the area.",
+        "audio_script_kn": "ಉಬ್ಬರವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಬಟ್ಟೆಯಲ್ಲಿ ಸುತ್ತಿದ ಐಸ್ ಪ್ಯಾಕ್ ಹಾಕಿ. ನೇರವಾಗಿ ಚರ್ಮಕ್ಕೆ ಐಸ್ ಹಾಕಬೇಡಿ ಅಥವಾ ಭಾಗವನ್ನು ಮಸಾಜ್ ಮಾಡಬೇಡಿ."
+      }
+    ]
+  },
+  {
+    "id": "fever",
+    "title_en": "High Fever",
+    "title_kn": "ಹೆಚ್ಚಿನ ಜ್ವರ",
+    "description_en": "Elevated body temperature and related symptoms",
+    "description_kn": "ಏರಿದ ದೇಹ ತಾಪಮಾನ ಮತ್ತು ಸಂಬಂಧಿತ ಲಕ್ಷಣಗಳು",
+    "category": "GENERAL",
+    "icon_name": "fever",
+    "call_emergency": false,
+    "steps": [
+      {
+        "step_number": 1,
+        "title_en": "Monitor Temperature",
+        "title_kn": "ತಾಪಮಾನ ಪರಿಶೀಲಿಸಿ",
+        "instruction_en": "Check body temperature. If above 103°F (39.4°C) in adults or 100.4°F (38°C) in children, seek medical help.",
+        "instruction_kn": "ದೇಹ ತಾಪಮಾನವನ್ನು ಪರಿಶೀಲಿಸಿ. ವಯಸ್ಕರಲ್ಲಿ 103°F (39.4°C) ಅಥವಾ ಮಕ್ಕಳಲ್ಲಿ 100.4°F (38°C) ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ, ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ.",
+        "dos": ["Check temperature regularly", "Keep hydrated", "Rest in cool place"],
+        "donts": ["Don't use cold baths", "Don't ignore high fever in children"],
+        "dos_kn": ["ತಾಪಮಾನವನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ", "ದ್ರವ ಪದಾರ್ಥ ಸೇವಿಸಿ", "ತಂಪಾದ ಸ್ಥಳದಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ"],
+        "donts_kn": ["ತಣ್ಣಗಿನ ಸ್ನಾನ ಮಾಡಬೇಡಿ", "ಮಕ್ಕಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಜ್ವರವನ್ನು ನಿರ್ಲಕ್ಷಿಸಬೇಡಿ"],
+        "audio_script_en": "Check body temperature regularly. If above 103 degrees Fahrenheit in adults or 100.4 in children, seek medical help. Keep the person hydrated and resting in a cool place.",
+        "audio_script_kn": "ದೇಹ ತಾಪಮಾನವನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ. ವಯಸ್ಕರಲ್ಲಿ 103 ಡಿಗ್ರಿ ಫ್ಯಾರನ್‌ಹೀಟ್ ಅಥವಾ ಮಕ್ಕಳಲ್ಲಿ 100.4 ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಪಡೆಯಿರಿ. ವ್ಯಕ್ತಿಗೆ ದ್ರವ ಪದಾರ್ಥ ನೀಡಿ ಮತ್ತು ತಂಪಾದ ಸ್ಥಳದಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಲು ಹೇಳಿ."
+      },
+      {
+        "step_number": 2,
+        "title_en": "Give Medication",
+        "title_kn": "ಔಷಧಿ ನೀಡಿ",
+        "instruction_en": "Give paracetamol/acetaminophen as directed. Do not give aspirin to children.",
+        "instruction_kn": "ಸೂಚಿಸಿದಂತೆ ಪ್ಯಾರಾಸಿಟಮಾಲ್/ಅಸಿಟಮಿನೋಫೆನ್ ನೀಡಿ. ಮಕ್ಕಳಿಗೆ ಆಸ್ಪ್ರಿನ್ ಕೊಡಬೇಡಿ.",
+        "dos": ["Give paracetamol as directed", "Keep giving fluids"],
+        "donts": ["Don't give aspirin to children", "Don't overdosage"],
+        "dos_kn": ["ಸೂಚಿಸಿದಂತೆ ಪ್ಯಾರಾಸಿಟಮಾಲ್ ನೀಡಿ", "ದ್ರವ ಪದಾರ್ಥ ನೀಡುತ್ತಿರಿ"],
+        "donts_kn": ["ಮಕ್ಕಳಿಗೆ ಆಸ್ಪ್ರಿನ್ ಕೊಡಬೇಡಿ", "ಹೆಚ್ಚಿನ ಡೋಸೇಜ್ ನೀಡಬೇಡಿ"],
+        "audio_script_en": "Give paracetamol or acetaminophen as directed. Do not give aspirin to children. Keep giving fluids regularly.",
+        "audio_script_kn": "ಸೂಚಿಸಿದಂತೆ ಪ್ಯಾರಾಸಿಟಮಾಲ್ ಅಥವಾ ಅಸಿಟಮಿನೋಫೆನ್ ನೀಡಿ. ಮಕ್ಕಳಿಗೆ ಆಸ್ಪ್ರಿನ್ ಕೊಡಬೇಡಿ. ನಿಯಮಿತವಾಗಿ ದ್ರವ ಪದಾರ್ಥ ನೀಡುತ್ತಿರಿ."
+      }
+    ]
+  }
+]

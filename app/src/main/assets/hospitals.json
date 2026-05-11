@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hosp1",
+    "name": "District Hospital",
+    "name_kn": "ಜಿಲ್ಲಾ ಆಸ್ಪತ್ರೆ",
+    "address": "Hospital Road, Bellary",
+    "district": "Bellary",
+    "phone": "08392-277000",
+    "lat": 15.1394,
+    "lng": 76.9214
+  },
+  {
+    "id": "hosp2",
+    "name": "City General Hospital",
+    "name_kn": "ನಗರ ಸಾಮಾನ್ಯ ಆಸ್ಪತ್ರೆ",
+    "address": "MG Road, Bangalore",
+    "district": "Bangalore",
+    "phone": "080-22334455",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "id": "hosp3",
+    "name": "Community Health Center",
+    "name_kn": "ಸಮುದಾಯ ಆರೋಗ್ಯ ಕೇಂದ್ರ",
+    "address": "Main Road, Hubli",
+    "district": "Hubli",
+    "phone": "0836-223344",
+    "lat": 15.3647,
+    "lng": 75.1239
+  }
+]
