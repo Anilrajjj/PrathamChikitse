@@ -1,5 +1,44 @@
-# Project exclude paths
-/.gradle/
+# ─── Android / Gradle ──────────────────────────────────────────
+*.iml
+.gradle/
 /app/build/
-/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/app/release/
 /build/
+/local.properties
+/.idea/workspace.xml
+/.idea/shelf/
+/.idea/caches/
+/.idea/libraries/
+/.idea/navEditor.xml
+/.idea/deploymentTargetSelector.xml
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# ─── Heap Dumps ────────────────────────────────────────────────
+*.hprof
+hs_err_pid*.log
+
+# ─── OS Files ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ─── Generated Assets ──────────────────────────────────────────
+# Source PNG used for icon generation
+/prathamachikitse.png
+
+# Generated launcher icons (regenerated via script, not committed)
+PrathamChikitse/app/src/main/res/mipmap-mdpi/ic_launcher*.png
+PrathamChikitse/app/src/main/res/mipmap-hdpi/ic_launcher*.png
+PrathamChikitse/app/src/main/res/mipmap-xhdpi/ic_launcher*.png
+PrathamChikitse/app/src/main/res/mipmap-xxhdpi/ic_launcher*.png
+PrathamChikitse/app/src/main/res/mipmap-xxxhdpi/ic_launcher*.png
+PrathamChikitse/app/src/main/res/drawable/ic_splash.png
+
+# ─── Duplicate / Backup Scripts ────────────────────────────────
+* - Copy.*
+*Copy.*
